@@ -7,7 +7,7 @@ This is a fully responsive installable PWA-app and can be installed on any devic
 
 # About
 
-This app is deployed on firebase, link is listed below:
+This app is deployed on firebase, link is listed as:
 [link to site](https://netflix-5b1d5.web.app)
 
 # Getting Started with Create React App
