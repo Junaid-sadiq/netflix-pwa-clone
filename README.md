@@ -8,9 +8,11 @@ This is a fully responsive installable PWA-app and can be installed on any devic
 
 # About
 
-This app is deployed on firebase, link is listed as: 
+This app is deployed on firebase and netlify, links are listed below as: 
 
-[link to site](https://netflix-5b1d5.web.app)
+[Link for Firebase hosted site](https://netflix-5b1d5.web.app)
+
+[Link for Netlify hosted site](https://ntflex.netlify.app)
 
 ## Clone this Repo
 
