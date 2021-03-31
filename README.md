@@ -3,6 +3,7 @@
 This application (a Netflix clone) was built ⚒ using React (Custom Hooks, Context), Firebase & Styled Components. I have built the following pages within this application: sign in, sign up, browse & lastly the homepage. There are four different pages, some using protected routes with auth listeners. Firebase firestore handles all the data and that data is retrieved using a custom hook; authentication is used on all pages, which is handled by Firebase as well.
 This is a fully responsive installable PWA-app and can be installed on any device.Below is the demo image of the home page 🏠 :
 
+
 ![Home Page](/Web%20capture_26-3-2021_204516_netflix-5b1d5.web.app.jpeg)
 
 # About
@@ -11,20 +12,20 @@ This app is deployed on firebase, link is listed as:
 
 [link to site](https://netflix-5b1d5.web.app)
 
-##Clone this Repo
+## Clone this Repo
 
 To clone this repo simply copy the link and run the following command:
 
-##git clone "link of this repo"
+### `git clone "paste link"`
 
 then change the current directory to where you have clone this repo and download the dependencied by running the following command:
 
-###npm install
+### `npm install`
 
-This project was bootstrapped ⚡ with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Getting Started with Create React App
 
+This project was bootstrapped ⚡ with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
