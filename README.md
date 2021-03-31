@@ -18,7 +18,7 @@ To clone this repo simply copy the link and run the following command:
 
 ### `git clone "paste link"`
 
-then change the current directory to where you have clone this repo and download the dependencied by running the following command:
+then change the current directory to where you have clone this repo and download the dependencies by running the following command:
 
 ### `npm install`
 
