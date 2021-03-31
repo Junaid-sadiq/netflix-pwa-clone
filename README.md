@@ -10,6 +10,12 @@ This is a fully responsive installable PWA-app and can be installed on any devic
 This app is deployed on firebase, link is listed as:
 [link to site](https://netflix-5b1d5.web.app)
 
+# Clone this Repo
+To clone this repo simply copy the link and run the following command:
+#git clone "link of this repo"
+then change the current directory to where you have clone this repo and download the dependencied by running the following command:
+#npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
