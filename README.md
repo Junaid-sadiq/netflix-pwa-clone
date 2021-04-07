@@ -18,7 +18,7 @@ This app is deployed on firebase and netlify, links are listed below as:
 
 To clone this repo simply copy the link and run the following command:
 
-### `git clone "paste_link_here"`
+### `git clone "paste_link_here" project_name`
 
 then change the current directory to where you have clone this repo and download the dependencies by running the following command:
 
